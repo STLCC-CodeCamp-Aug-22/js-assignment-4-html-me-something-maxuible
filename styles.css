@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+img{
+
+width:50vw;
+margin-left: 25vw;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 8px;
+    
+}
+
+h2{
+    text-align: center;
+}
+
+.imagefooter{
+    text-align: left;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    font-size: smaller;
+}
+
+#list{
+    font-size: large;
+    font-weight:bold;
+}
+
+#mainHeading{
+    color: red;
+}
+
+.funParagraph{
+    color: green;
+}
